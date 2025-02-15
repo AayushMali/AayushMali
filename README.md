@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AayushMali
 - 👀 I’m interested in Building projects
-- 🌱 I’m currently learning: Java
+- 🌱 I’m currently learning: Python
 - 😄 Pronouns: He/Him
 
 
